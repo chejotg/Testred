@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>base_url</key>
+        <value>http://www.seassa.com</value>
+    </entry>
+    <entry>
+        <key>service_name_login_ws</key>
+        <value>MP_SERVICES-NYSSA_USERLogin</value>
+    </entry>
+    <entry>
+        <key>license_number_prm_ws</key>
+        <value>cardNumber</value>
+    </entry>
+    <entry>
+        <key>birthdate_prm_ws</key>
+        <value>birthDate</value>
+    </entry>
+    <entry>
+        <key>reference_source_prm_ws</key>
+        <value>source</value>
+    </entry>
+    <entry>
+        <key>language_prm_ws</key>
+        <value>language</value>
+    </entry>
+    <entry>
+        <key>user_ws</key>
+        <value>ws_user</value>
+    </entry>
+    <entry>
+        <key>password_ws</key>
+        <value>servicios</value>
+    </entry>
+    <entry>
+        <key>user_firebase</key>
+        <value>hagustin@mediprocesos.com</value>
+    </entry>
+    <entry>
+        <key>password_firebase</key>
+        <value>Alan.071</value>
+    </entry>
+    <entry>
+        <key>global_accept</key>
+        <value>Accept</value>
+    </entry>
+    <entry>
+        <key>global_close</key>
+        <value>Close</value>
+    </entry>
+    <entry>
+        <key>global_next</key>
+        <value>Next</value>
+    </entry>
+    <entry>
+        <key>global_card_number_label</key>
+        <value>Card number:</value>
+    </entry>
+    <entry>
+        <key>global_birthday_label</key>
+        <value>Birthdate:</value>
+    </entry>
+    <entry>
+        <key>global_select_country_title</key>
+        <value>Choose your country</value>
+    </entry>
+    <entry>
+        <key>global_register_title</key>
+        <value>To complete the registration process you need to complete the additional information</value>
+    </entry>
+    <entry>
+        <key>global_email_address</key>
+        <value>Email:</value>
+    </entry>
+    <entry>
+        <key>global_phone_number</key>
+        <value>Mobile Phone:</value>
+    </entry>
+    <entry>
+        <key>global_number_id</key>
+        <value>Identification number:</value>
+    </entry>
+    <entry>
+        <key>global_terms_condition</key>
+        <value>Terms and Conditions</value>
+    </entry>
+    <entry>
+        <key>global_title_sms</key>
+        <value>Verification SMS</value>
+    </entry>
+    <entry>
+        <key>global_description_sms</key>
+        <value>please enter the verification code to login</value>
+    </entry>
+    <entry>
+        <key>global_forward_code</key>
+        <value>Send again</value>
+    </entry>
+    <entry>
+        <key>global_forward_email_code</key>
+        <value>Sento to my email</value>
+    </entry>
+    <entry>
+        <key>base_url_aws</key>
+        <value>https://jiowa3ks29.execute-api.us-east-1amazonaws.com/apiTest/</value>
+    </entry>
+    <entry>
+        <key>service_register_aws</key>
+        <value>registration</value>
+    </entry>
+    <entry>
+        <key>x_api_key</key>
+        <value>Z2KLbd3scz8DxrH3iXeND49bA6EFStAN4WRqrT0y</value>
+    </entry>
+    <entry>
+        <key>security_key</key>
+        <value>2b6922488fc387b9a597</value>
+    </entry>
+    <entry>
+        <key>customer_name</key>
+        <value>usr_roble</value>
+    </entry>
+    <entry>
+        <key>global_alert_label</key>
+        <value>Alert</value>
+    </entry>
+    <entry>
+        <key>global_error_email</key>
+        <value>The email is invalid.</value>
+    </entry>
+    <entry>
+        <key>global_error_phone_number</key>
+        <value>The phone number is invalid.</value>
+    </entry>
+    <entry>
+        <key>global_error_identification_id</key>
+        <value>The identification number is invalid.</value>
+    </entry>
+    <entry>
+        <key>global_error_accept_terms_conditions</key>
+        <value>You must accept the terms and conditions.</value>
+    </entry>
+    <entry>
+        <key>services_token_request_aws</key>
+        <value>token-request</value>
+    </entry>
+    <entry>
+        <key>services_token_validate_aws</key>
+        <value>token-validation</value>
+    </entry>
+    <entry>
+        <key>global_sub_title_one</key>
+        <value>Learn about the main benefits and coverages that your policy has</value>
+    </entry>
+    <entry>
+        <key>global_title_menu_one</key>
+        <value>My benefits</value>
+    </entry>
+    <entry>
+        <key>global_title_menu_three</key>
+        <value>Providers</value>
+    </entry>
+    <entry>
+        <key>global_sub_title_three</key>
+        <value>Access to the search of medical providers of your program</value>
+    </entry>
+    <entry>
+        <key>global_sub_title_two</key>
+        <value>Check the status of your authorization requests</value>
+    </entry>
+    <entry>
+        <key>global_title_menu_two</key>
+        <value>Authorizations</value>
+    </entry>
+    <entry>
+        <key>local_title_rc</key>
+        <value>Guatemala</value>
+    </entry>
+    <entry>
+        <key>international_title_rc</key>
+        <value>International</value>
+    </entry>
+    <entry>
+        <key>pbx_one_title_rc</key>
+        <value>PBX</value>
+    </entry>
+    <entry>
+        <key>email_one_title_rc</key>
+        <value>Consultation and emergencies</value>
+    </entry>
+    <entry>
+        <key>pbx_one_rc</key>
+        <value>1797</value>
+    </entry>
+    <entry>
+        <key>pbx_two_rc</key>
+        <value>+(502)2420-3333</value>
+    </entry>
+    <entry>
+        <key>email_rc</key>
+        <value>autorizaciones@elroble.com</value>
+    </entry>
+    <entry>
+        <key>pbx_one_inter_rc</key>
+        <value>+1(855)203324</value>
+    </entry>
+    <entry>
+        <key>pbx_two_inter_rc</key>
+        <value>+1(855)5150474</value>
+    </entry>
+    <entry>
+        <key>email_inter_rc</key>
+        <value>autorizaciones@elroble.com</value>
+    </entry>
+    <entry>
+        <key>pbx_two_title_rc</key>
+        <value>PBX</value>
+    </entry>
+    <entry>
+        <key>email_one_inter_title_rc</key>
+        <value>Consultations and emergencies</value>
+    </entry>
+    <entry>
+        <key>pbx_one_inter_title_rc</key>
+        <value>PBX</value>
+    </entry>
+    <entry>
+        <key>pbx_two_inter_title_rc</key>
+        <value>PBX</value>
+    </entry>
+    <entry>
+        <key>session_time</key>
+        <value>5</value>
+    </entry>
+    <entry>
+        <key>global_information</key>
+        <value>Information</value>
+    </entry>
+    <entry>
+        <key>global_dependent</key>
+        <value>Dependents</value>
+    </entry>
+    <entry>
+        <key>global_state_insured</key>
+        <value>Insured's status:</value>
+    </entry>
+    <entry>
+        <key>global_company_name</key>
+        <value>Company name:</value>
+    </entry>
+    <entry>
+        <key>global_policy_certificate</key>
+        <value>Policy/Certificate:</value>
+    </entry>
+    <entry>
+        <key>global_cupons_available</key>
+        <value>coupons available:</value>
+    </entry>
+    <entry>
+        <key>global_insured_type</key>
+        <value>Insured type:</value>
+    </entry>
+    <entry>
+        <key>services_name_dependent_ws</key>
+        <value>MP_SERVICES-NYSSA_PolicyholderDependents</value>
+    </entry>
+    <entry>
+        <key>global_name_insure</key>
+        <value>Name:</value>
+    </entry>
+    <entry>
+        <key>global_dependent_number</key>
+        <value>Dependent:</value>
+    </entry>
+    <entry>
+        <key>services_name_policy_holder_authorization</key>
+        <value>MP_SERVICES-NYSSA_PolicyholderAuthorizations</value>
+    </entry>
+    <entry>
+        <key>global_message_704</key>
+        <value>The code has been sent to your registered phone number</value>
+    </entry>
+    <entry>
+        <key>global_message_705</key>
+        <value>The code has been sent to your registered email</value>
+    </entry>
+    <entry>
+        <key>services_token_request_email_aws</key>
+        <value>token-email-request</value>
+    </entry>
+    <entry>
+        <key>global_title_error_alert</key>
+        <value>Error</value>
+    </entry>
+    <entry>
+        <key>global_message_error_ws</key>
+        <value>Sorry, we are having problems connecting to our servers try later</value>
+    </entry>
+    <entry>
+        <key>services_name_cupons_inf_ws</key>
+        <value>MP_SERVICES-NYSSA_CouponsInformation</value>
+    </entry>
+    <entry>
+        <key>global_title_detail</key>
+        <value>Detail of</value>
+    </entry>
+    <entry>
+        <key>global_designated_provider</key>
+        <value>Designated provider</value>
+    </entry>
+    <entry>
+        <key>global_reception_date</key>
+        <value>Reception date</value>
+    </entry>
+    <entry>
+        <key>global_due_date</key>
+        <value>Due date</value>
+    </entry>
+    <entry>
+        <key>global_finished</key>
+        <value>Finished</value>
+    </entry>
+    <entry>
+        <key>global_authorization_complete_number</key>
+        <value>Authorization complete number</value>
+    </entry>
+    <entry>
+        <key>global_send_to</key>
+        <value>Send to</value>
+    </entry>
+    <entry>
+        <key>call_time</key>
+        <value>10</value>
+    </entry>
+    <entry>
+        <key>services_name_policy_holder_benefits</key>
+        <value>MP_SERVICES-NYSSA_PolicyholderBenefits</value>
+    </entry>
+    <entry>
+        <key>global_login_card_number_error</key>
+        <value>please enter the card number</value>
+    </entry>
+    <entry>
+        <key>global_login_birthdate_error</key>
+        <value>Please enter your date of birth</value>
+    </entry>
+    <entry>
+        <key>global_terms_and_condition</key>
+        <value>Information</value>
+    </entry>
+    <entry>
+        <key>global_no_sim_detected</key>
+        <value>The device can not make the call</value>
+    </entry>
+    <entry>
+        <key>tabbar_home</key>
+        <value>Home</value>
+    </entry>
+    <entry>
+        <key>tabbar_emergency</key>
+        <value>Emergency</value>
+    </entry>
+    <entry>
+        <key>tabbar_contact</key>
+        <value>Contact</value>
+    </entry>
+    <entry>
+        <key>tabbar_profile</key>
+        <value>Profile</value>
+    </entry>
+    <entry>
+        <key>emergency_label_one</key>
+        <value>The call will be made automatically to the number</value>
+    </entry>
+    <entry>
+        <key>emergency_label_two</key>
+        <value>In a time of</value>
+    </entry>
+    <entry>
+        <key>global_cancel</key>
+        <value>Cancel</value>
+    </entry>
+    <entry>
+        <key>global_accept_and_call</key>
+        <value>Accept and call</value>
+    </entry>
+    <entry>
+        <key>global_no_request</key>
+        <value>No. Request</value>
+    </entry>
+    <entry>
+        <key>url_aws_pdf</key>
+        <value>http://ec2-34-205-41-15.compute-1.amazonaws.com:8080/pdfblob/</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
